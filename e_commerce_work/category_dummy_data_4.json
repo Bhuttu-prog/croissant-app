@@ -1,0 +1,8 @@
+{
+  "name": "Books & Media",
+  "description": "Comprehensive collection of books, e-books, audiobooks, magazines, movies, music, and digital content across all genres and languages.",
+  "slug": "books-media",
+  "imageUrl": "https://example.com/images/categories/books.jpg",
+  "isActive": true
+}
+

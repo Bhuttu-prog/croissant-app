@@ -1,0 +1,8 @@
+{
+  "name": "Electronics",
+  "description": "All kinds of electronic devices and gadgets including smartphones, laptops, tablets, smartwatches, and other tech accessories for everyday use and professional work.",
+  "slug": "electronics",
+  "imageUrl": "https://example.com/images/categories/electronics.jpg",
+  "isActive": true
+}
+
