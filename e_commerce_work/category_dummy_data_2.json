@@ -1,0 +1,8 @@
+{
+  "name": "Home & Garden",
+  "description": "Everything you need for your home including furniture, decor, bedding, kitchenware, gardening tools, and outdoor equipment for comfortable living.",
+  "slug": "home-garden",
+  "imageUrl": "https://example.com/images/categories/home-garden.jpg",
+  "isActive": true
+}
+

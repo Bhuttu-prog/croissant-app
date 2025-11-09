@@ -1,0 +1,32 @@
+{
+  "name": "Wireless Bluetooth Headphones",
+  "description": "Premium quality wireless Bluetooth headphones with noise cancellation and 30-hour battery life. Perfect for music lovers and professionals.",
+  "sku": "WBH-2025-001",
+  "price": 199.99,
+  "discountedPrice": 149.99,
+  "currency": "USD",
+  "tags": [
+    "electronics",
+    "audio",
+    "wireless",
+    "bluetooth",
+    "headphones"
+  ],
+  "stockQuantity": 50,
+  "isAvailable": true,
+  "slug": "wireless-bluetooth-headphones",
+  "category": {
+    "name": "Electronics",
+    "description": "All kinds of electronic devices and gadgets for everyday use including smartphones, laptops, and accessories.",
+    "slug": "electronics",
+    "imageUrl": "https://example.com/images/electronics.jpg",
+    "isActive": true
+  },
+  "brand": {
+    "name": "SoundMax",
+    "description": "Leading brand in audio equipment and wireless technology with over 20 years of experience.",
+    "logoUrl": "https://example.com/logos/soundmax.png",
+    "website": "https://www.soundmax.com",
+    "isActive": true
+  }
+}

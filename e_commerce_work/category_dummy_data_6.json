@@ -1,0 +1,8 @@
+{
+  "name": "Toys & Games",
+  "description": "Exciting collection of educational toys, board games, video games, puzzles, and entertainment items suitable for children and adults of all ages.",
+  "slug": "toys-games",
+  "imageUrl": "https://example.com/images/categories/toys.jpg",
+  "isActive": true
+}
+
